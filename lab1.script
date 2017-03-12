@@ -1,0 +1,31 @@
+Script started on 廿十七年三月十二日 (週日) 十一時39分九秒
+]0;williamchen@williamchen-Aspire-VN7-591G: ~[01;32mwilliamchen@williamchen-Aspire-VN7-591G[00m:[01;34m~[00m$ whoami; pwd
+williamchen
+/home/williamchen
+]0;williamchen@williamchen-Aspire-VN7-591G: ~[01;32mwilliamchen@williamchen-Aspire-VN7-591G[00m:[01;34m~[00m$ go[Kit cong[Kfig -l
+user.email=iphone31302@gmail.com
+user.name=WeichiChen1210
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/WeichiChen1210/lab1.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.master.remote=origin
+branch.master.merge=refs/heads/master
+]0;williamchen@williamchen-Aspire-VN7-591G: ~[01;32mwilliamchen@williamchen-Aspire-VN7-591G[00m:[01;34m~[00m$ git clone https://github.com /<your [K[K[K[K[KWeichi CH[Khen [K1210>/lab1.git
+bash: WeichiChen1210: No such file or directory
+]0;williamchen@williamchen-Aspire-VN7-591G: ~[01;32mwilliamchen@williamchen-Aspire-VN7-591G[00m:[01;34m~[00m$ git clone https://github.com /<WeichiCChen1210>/lab1.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/<WeichiCh[1Pen1210>/lab1.git[A]0;williamchen@williamchen-Aspire-VN7-591G: ~[01;32mwilliamchen@williamchen-Aspire-VN7-591G[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+bash: WeichiChen1210: No such file or directory
+]0;williamchen@williamchen-Aspire-VN7-591G: ~[01;32mwilliamchen@williamchen-Aspire-VN7-591G[00m:[01;34m~[00m$ git clone https://github.com/<WeichiChhen1210>/lab1.git[1P/lab1.git[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CWeichiChe[1Pn1210/lab1.git[A]0;williamchen@williamchen-Aspire-VN7-591G: ~[01;32mwilliamchen@williamchen-Aspire-VN7-591G[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+Cloning into 'lab1'...
+remote: Counting objects: 9, done.[K
+remote: Compressing objects:  16% (1/6)   [Kremote: Compressing objects:  33% (2/6)   [Kremote: Compressing objects:  50% (3/6)   [Kremote: Compressing objects:  66% (4/6)   [Kremote: Compressing objects:  83% (5/6)   [Kremote: Compressing objects: 100% (6/6)   [Kremote: Compressing objects: 100% (6/6), done.[K
+remote: Total 9 (delta 0), reused 9 (delta 0), pack-reused 0[K
+Unpacking objects:  11% (1/9)   Unpacking objects:  22% (2/9)   Unpacking objects:  33% (3/9)   Unpacking objects:  44% (4/9)   Unpacking objects:  55% (5/9)   Unpacking objects:  66% (6/9)   Unpacking objects:  77% (7/9)   Unpacking objects:  88% (8/9)   Unpacking objects: 100% (9/9)   Unpacking objects: 100% (9/9), done.
+Checking connectivity... done.
+]0;williamchen@williamchen-Aspire-VN7-591G: ~[01;32mwilliamchen@williamchen-Aspire-VN7-591G[00m:[01;34m~[00m$ exit
+
+Script done on 廿十七年三月十二日 (週日) 十一時45分六秒
